@@ -1,0 +1,80 @@
+/*@import url(base.css);*/
+*{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    list-style: none;
+    /*background: black;*/
+    /*font-size: 16px;*/
+    /*font-family: "微软雅黑","宋体";*/
+}
+body{
+    position: absolute;
+    background: #ffffff;
+    top:0;
+    bottom: 0;
+    left:0;
+    right: 0;
+}
+.AIBox{
+    width: 3.26rem;
+    height: 3.26rem;
+    /*background: pink;*/
+    margin-top: 1.24rem;
+    margin-left: 2.22rem;
+}
+.AIBox img{
+    width: 3.26rem;
+    height: 3.26rem;
+}
+.JoinAIBox{
+    font-size: 0.28rem;
+    color: #000000;
+    font-weight: bold;
+    line-height: 0.99rem;
+    margin-left: 3rem;
+}
+.load{
+    width: 4.81rem;
+    height: 0.7rem;
+    margin-top: 4.21rem;
+    margin-left: 1.35rem;
+    border-radius: 0.35rem;
+
+    /*border: none;*/
+    background: #2196f3;
+    box-shadow: 0 0.1rem 0.4rem 0.005rem #5da5fe;
+
+    font-size: 0.24rem;
+    color: #ffffff;
+    font-family: "苹方 粗体";
+}
+.recogn{
+    width: 4.81rem;
+    height: 0.7rem;
+    margin-top: 0.49rem;
+    margin-left: 1.35rem;
+    border-radius: 0.35rem;
+    background: #3be148;
+    box-shadow: 0 0.1rem 0.4rem 0.005rem #75d67b;
+
+    font-size: 0.24rem;
+    color: #ffffff;
+    font-family: "苹方 粗体";
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
