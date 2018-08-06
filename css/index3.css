@@ -105,6 +105,10 @@ body{
     margin-left: 0.2rem;
     float: left;
 }
+.abox{
+    width: 1.82rem;
+    height: 0.24rem;
+}
 .times{
     /*width: 0.12rem;*/
     /*height: 0.12rem;*/

@@ -93,6 +93,10 @@ body{
     box-shadow: 0 0.005rem 0.2rem 0.005rem #ffcb2e;
     float: left;
 }
+.abox{
+    width: 0.18rem;
+    height: 0.08rem;
+}
 .start2{
     width: 1.82rem;
     height: 0.24rem;
