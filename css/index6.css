@@ -1,0 +1,66 @@
+/*@import url(base.css);*/
+*{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    list-style: none;
+    /*background: black;*/
+    /*font-size: 16px;*/
+    /*font-family: "微软雅黑","宋体";*/
+}
+a{
+    text-decoration: none;
+}
+body{
+    position: absolute;
+    /*background: url("../img/yuyin.png") no-repeat 0;*/
+    background: #ffffff;
+    top:0;
+    bottom: 0;
+    left:0;
+    right: 0;
+}
+.size{
+    width: 7.5rem;
+    height: 3.1rem;
+    margin-top: 1.93rem;
+
+}
+.word{
+    width: 2.59rem;
+    height: 0.24rem;
+    margin-top: 1.47rem;
+    margin-left: 2.46rem;
+    font-size: 0.22rem;
+    color: rgb(0,0,0,0.4);
+    text-align: center;
+    line-height: 0.24rem;
+}
+.word1{
+    width: 3.83rem;
+    height: 0.24rem;
+    margin-top: 0.04rem;
+    margin-left: 1.83rem;
+    font-size: 0.22rem;
+    color: rgb(0,0,0,0.4);
+    text-align: center;
+    line-height: 0.24rem;
+}
+.before{
+    width: 3.54rem;
+    height: 0.7rem;
+    border-radius: 0.35rem;
+    background:#ffc335;
+    margin-left: 2rem;
+    margin-top: 4.17rem;
+    font-size: 0.24rem;
+    font-family: "苹方 粗体";
+    color: #ffffff;
+    text-align: center;
+    line-height: 0.7rem;
+    box-shadow: 0 0.1rem 0.4rem 0.005rem #f8cb59;
+}
+.abox{
+    width: 3.54rem;
+    height: 0.7rem;
+}
