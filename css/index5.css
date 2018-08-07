@@ -8,6 +8,9 @@
     /*font-size: 16px;*/
     /*font-family: "微软雅黑","宋体";*/
 }
+a{
+    text-decoration: none;
+}
 body{
     position: absolute;
     background: #ffffff;
@@ -28,6 +31,7 @@ body{
     margin-left: auto;
     right: 0;
     margin-right: auto;
+    animation:scale 2s infinite;
 }
 .cricle2{
     width: 2.97rem;
@@ -41,6 +45,7 @@ body{
     margin-left: auto;
     right: 0;
     margin-right: auto;
+    animation:scale 2s infinite;
 }
 .cricle3{
     width: 2.22rem;
@@ -54,12 +59,31 @@ body{
     margin-left: auto;
     right: 0;
     margin-right: auto;
+    animation:scale 2s infinite;
 }
-.cricle3 img{
-    display: block;
+@keyframes scale{
+    0%{
+        transform: scale(1.1);
+        /*background: rgb(78,110,212);*/
+    }
+    50%{
+        transform: scale(1.3);
+        /*background: rgba(78,110,212,0.6);*/
+    }
+    100%{
+        transform: scale(1.5);
+        /*background: rgba(78,110,212,0.2);*/
+    }
+}
+.people{
+    position: absolute;
     width: 2rem;
     height: 2rem;
-    margin: 0.1rem;
+    top: 1.7rem;
+    left: 0;
+    margin-left: auto;
+    right: 0;
+    margin-right: auto;
 }
 .start{
     width: 4.06rem;

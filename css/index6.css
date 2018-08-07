@@ -20,47 +20,56 @@ body{
     left:0;
     right: 0;
 }
+.size1{
+    width: 7.5rem;
+    height: 13.34rem;
+    position: absolute;
+}
 .size{
     width: 7.5rem;
     height: 3.1rem;
     margin-top: 1.93rem;
-
+    position: absolute;
 }
 .word{
     width: 2.59rem;
     height: 0.24rem;
-    margin-top: 1.47rem;
-    margin-left: 2.46rem;
+    top: 6.19rem;
+    left: 2.46rem;
     font-size: 0.22rem;
     color: rgb(0,0,0,0.4);
     text-align: center;
     line-height: 0.24rem;
+    position: absolute;
 }
 .word1{
     width: 3.83rem;
     height: 0.24rem;
-    margin-top: 0.04rem;
-    margin-left: 1.83rem;
+    top: 6.50rem;
+    left: 1.83rem;
     font-size: 0.22rem;
     color: rgb(0,0,0,0.4);
     text-align: center;
     line-height: 0.24rem;
+    position: absolute;
 }
 .before{
     width: 3.54rem;
     height: 0.7rem;
     border-radius: 0.35rem;
     background:#ffc335;
-    margin-left: 2rem;
-    margin-top: 4.17rem;
+    left: 2rem;
+    top: 10rem;
     font-size: 0.24rem;
     font-family: "苹方 粗体";
     color: #ffffff;
     text-align: center;
     line-height: 0.7rem;
     box-shadow: 0 0.1rem 0.4rem 0.005rem #f8cb59;
+    position: absolute;
 }
 .abox{
     width: 3.54rem;
     height: 0.7rem;
+    position: absolute;
 }
