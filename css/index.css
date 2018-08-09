@@ -49,6 +49,9 @@ body{
     color: #ffffff;
     font-family: "苹方 粗体";
 }
+.button{
+    outline: none;
+}
 .recogn{
     width: 4.81rem;
     height: 0.7rem;
